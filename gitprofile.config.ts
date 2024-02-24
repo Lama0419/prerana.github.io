@@ -50,7 +50,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'manikhilho',
+    linkedin: 'preranabl',
     twitter: 'manikhilho',
     medium: '@RealNikhilJyapu',
     website: 'https://www.manikhilho.wordpress.com',
