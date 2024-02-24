@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'MaNikhilHo', // Your GitHub org/user name. (This is the only required config)
+    username: 'Lama0419', // Your GitHub org/user name. (This is the only required config)
   },
   base: '/',
   projects: {
@@ -45,8 +45,8 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Nilaa Maharjan',
-    description: 'Portfolio page for nilaa maharjan. Manikhilho, MaNikhilHo. Resume. Github Profile',
+    title: 'Portfolio of Prerana Blown Lama',
+    description: 'Portfolio page for Prerana Blown Lama. Resume. Github Profile',
     imageURL: '',
   },
   social: {
