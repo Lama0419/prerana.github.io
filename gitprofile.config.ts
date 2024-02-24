@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'Lama0419', // Your GitHub org/user name. (This is the only required config)
+    username: 'preranabl', // Your GitHub org/user name. (This is the only required config)
   },
   base: '/',
   projects: {
