@@ -19,31 +19,6 @@ const CONFIG = {
         },
       },
     },
-    external: {
-      header: 'My Projects',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: 'Emerging Threats - Logpoint',
-          description:
-            'Research with detection queries in Logpoint about past CVEs, Malware and Security Threats',
-          link: 'https://www.logpoint.com/en/?s=nilaa+maharjan&post_type[]=any&fs=1&lang=en',
-        },
-        {
-          title: 'Additional Independent Research',
-          description:
-            'Will continue to research and post about Life as a Security Researcher - Medium',
-          link: 'https://medium.com/@realnikhiljyapu',
-        }, 
-        {
-          title: 'ResearchGate',
-          description:
-            'Some published researchgate articles',
-          link: 'https://www.researchgate.net/profile/Nilaa_Maharjan',
-        }, 
-      ],
-    },
-  },
   seo: {
     title: 'Portfolio of Prerana Blown Lama',
     description: 'Portfolio page for Prerana Blown Lama. Resume. Github Profile',
@@ -51,10 +26,9 @@ const CONFIG = {
   },
   social: {
     linkedin: 'preranabl',
-    twitter: 'manikhilho',
-    medium: '@RealNikhilJyapu',
-    website: 'https://www.manikhilho.wordpress.com',
-    email: 'nilaamhr@gmail.com',
+    twitter: 'blownlama',
+    medium: '@preranablama',
+    email: 'preranablama@gmail.com',
   },
   resume: {
     fileUrl:
@@ -74,44 +48,16 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'SCHWARZ IT, Heilbronn, Germany',
-      position: 'Security Analytics Engineer, Research and Development (Studentwerker)',
-      from: 'July 2023',
+      company: 'Cloud Factory',
+      position: 'Cloud Worker',
+      from: 'Oct 2023',
       to: 'Present',
-      companyLink: 'https://it.schwarz/',
-      tasks: 'Tuning existing Use Cases and Runbooks and creating new ones where necessary based on the needs of the company and threat model. <br/>- Researching and developing in-house malicious macro detection tool. <br/>- Incident Detection and Response.'
+      companyLink: 'https://www.cloudfactory.com.np/',
+      tasks: 'Using project management tool Jira Service Desk for updating tickets. Updating tickets in
+spreadsheet.<br> Working on cloud-based IT management platform Bluezoo and network
+monitoring tool Cradle point.'
     },
-    {
-      company: 'LOGPOINT PVT. LTD, Lalitpur, Nepal',
-      position: 'Associate Security Analytics Engineer',
-      from: 'February 2022',
-      to: 'March 2023',
-      companyLink: 'https://www.logpoint.com/en/?s=nilaa+maharjan&post_type%5B%5D=any&fs=1&lang=en',
-      tasks: 'Demonstrated research capabilities by analyzing, and creating content based on a wide variety of commodity and APT-based malware and techniques. <br/>- Led Emerging Threat Protection Services and published blogs, papers, and reports. <br/>- Interpret Threat intelligence’s IOCs and use them efficiently for creating and distributing alert queries, dashboards, and other data visualizations. <br/>- Translated research and analytical findings into security use. <br/>- Built defensive, highly customized security playbooks using the LogPoint SOAR platform. <br/>- Create technical documentation, end-of-the-year reports from Security Team, and research papers around the content deployed to the SIEM. <br/>-'
-    },    
-    {
-      company: 'DIGITAL NETWORK SOLUTIONS (DNS), Kathmandu, Nepal',
-      position: 'Application Security Engineer',
-      from: 'August 2020',
-      to: 'November 2021',
-      companyLink: 'https://digitalnetwork.com.np/',
-      tasks: 'Deployed and provided support for BIG-IP F5 Web Application Firewall at various reputed institutions. <br/>- Planned and implemented Network Design and Architecture for Network and Application Security (Firewall, DNS, DHCP, VPN, NAT Routing, Load Balancing, TCP/IP, Packet Capture, and Analysis). <br/>- Created reports drafts, Proof of Concepts, deployment scenarios, Support reports, and Root Cause Analysis Reports. <br/>- Deployed and provided support for Global Server Load Balancing (GSLB) services. <br/>- Provided customer support on HCI’s, Cloudflare DNS, and WAF for quick deployments and product support.'
-    },
-    {
-      company: 'NCELL PVT. LTD, Kathmandu, Nepal',
-      position: 'Information Security Analyst',
-      from: 'December 2020',
-      to: 'February 2021',
-      companyLink: 'https://digitalnetwork.com.np/',
-      tasks: 'Tested the company web portal for bugs, issues, and vulnerabilities and reported them immediately. <br/>-  Took a hands-on approach with network security operations. <br/>- Conducted System/Network scanning and auditing for monthly threat and security vulnerability assessment. <br/>- Ran, administered and reported on monthly Nessus scans, compliance checks, and general reports. <br/>- Created report drafts, Proof of Concepts, attack scenarios for the tests, and immediate disclosures. <br/>- Localized, set up, and ran Minimum Baseline Security Standard checks provided by the parent company. <br/>- Created awareness content as training materials for employees to be used within the entire corporation. <br/>- Identified and presented the performance of proactive all-source research to identify and characterize new threats, vulnerabilities, and risks to the customer security context.'
-    },
-    {
-      company: 'EMINENCE WAYS, Kathmandu, Nepal',
-      position: 'Web Security Researcher (Intern)',
-      from: 'August 2019',
-      to: 'November 2019',
-    },
-  ],
+    
   certifications: [
     {
       name: 'Blue Team Level 1 (BTL1)',
