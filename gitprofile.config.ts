@@ -53,7 +53,7 @@ const CONFIG = {
       from: 'Oct 2023',
       to: 'Present',
       companyLink: 'https://www.cloudfactory.com.np/',
-      tasks: 'Using project management tool Jira Service Desk for updating tickets.Updating tickets in spreadsheet. Working with cloud based IT management platform Bluezoo and network monitoring tool Cradle point'
+      tasks: 'Using project management tool Jira Service Desk for updating tickets.Updating tickets in spreadsheet. Working with cloud based IT management platform Bluezoo and network monitoring tool Cradle point',
     },
   ],
   certifications: [
