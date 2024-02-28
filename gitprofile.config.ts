@@ -170,5 +170,5 @@ const CONFIG = {
     },
   },
     enablePWA: true,
-}
+},
 export default CONFIG;
